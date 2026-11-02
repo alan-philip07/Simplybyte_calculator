@@ -1,3 +1,3 @@
-#Project Simplybyte Calculator
+# Sample Project
 
-This project features a GUI of a basic calculator.
+This project demonstrates collaborative software development.
